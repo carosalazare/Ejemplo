@@ -1,0 +1,29 @@
+[
+    {
+        "id" : "1",
+        "title" : "Suelas",
+        "cantidad" : "10000",
+        "colores" : "azul, rojo, verde, negro"
+    },
+
+    {
+        "id" : "2",
+        "title" : "Agujetas",
+        "cantidad" : "9000",
+        "colores" : "azul, rojo, verde, negro"
+    },
+
+    {
+        "id" : "3",
+        "title" : "Telas",
+        "cantidad" : "8000",
+        "colores" : "azul, rojo, verde, negro"
+    },
+
+    {
+        "id" : "4",
+        "title" : "Cantidad de Zapatos",
+        "cantidad" : "7000",
+        "piezas" : "suelas, agujetas, telas"
+    }
+]
